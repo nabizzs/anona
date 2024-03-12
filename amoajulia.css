@@ -1,0 +1,36 @@
+body 
+{
+  background-color: #12164e;
+  text-align: center;
+  color: rgb(165, 165, 165);
+  border-style: solid;
+  border-color:white;  
+  border-width:2px;
+  padding: 10px;
+}
+#nome
+{
+  text-decoration: underline;
+  font-size:40px;
+  color: rgb(224, 224, 224);
+  background: white;
+}
+a
+{
+  color: rgb(204, 204, 204);
+  font-size: 20px;
+  padding: 10px;
+  border-radius: 20px;
+}
+p{
+    color: rgb(182, 182, 182);
+    word-spacing: 10px;
+    font-variant:inherit
+    font-size: 20px;
+    font-family: Arial;
+  }
+  
+  .informacoes{
+      color: rgb(180, 180, 189);
+      font-size: 18px;
+  }
